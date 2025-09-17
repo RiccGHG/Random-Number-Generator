@@ -1,2 +1,2 @@
 # Random-Number-Generator
-You can Generate a Random Number lol
+You can Generate a Random Number
